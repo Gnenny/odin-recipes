@@ -1,10 +1,28 @@
 /* styles.css */
 
+.odd {
+    background-color: pink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif
+}
+.three {
+    font-size: 24px;
+}
+#oneid {
+    color: blue;
+    font-size: 36px;
+}
+#anotherid {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
 div {
     color: white;
     background-color: red;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
-
 }
+
