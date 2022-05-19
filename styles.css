@@ -57,3 +57,35 @@
     font-size: 20px;
     text-align: center;
 }
+
+.para,
+.smallpara {
+    color: red;
+}
+.para {
+    font-size: large;
+}
+.smallpara {
+    font-size: small;
+}
+
+div.greendiv {
+    color: green;
+}
+
+.childdiv {
+    color: red;
+    font-size: small;
+}
+
+#confirm {
+    background-color: green;
+    color: white;
+    font-size: larger;
+}
+
+#cancel {
+    background-color: white;
+    color: black;
+    font-size: larger;
+}
