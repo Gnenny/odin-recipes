@@ -18,7 +18,7 @@
 }
 
 
-div {
+.exmethod {
     color: white;
     background-color: red;
     font-size: 32px;
@@ -49,4 +49,11 @@ div {
 .avatar.proportioned {
     width: 200px;
     height: 400px;
+}
+
+.parent .child {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
 }
